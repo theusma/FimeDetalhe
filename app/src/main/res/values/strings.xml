@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ClienteADS18</string>
+    <string name="dica_busca">nome do cliente</string>
+    <string name="btn_busca">Buscar</string>
+    <string name="detalhe_nome">Nome:</string>
+    <string name="detalhe_diretor">Diretor: </string>
+    <string name="detalhe_data">Data Lançamento: </string>
+
+</resources>
